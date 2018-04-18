@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeCounter</string>
+    <string name="score">Score: %1$s</string>
+    <string name="lose">Player %1$d LOSES!</string>
+</resources>
